@@ -12,6 +12,6 @@ function changeColor() {
 	if(counter == 6) {
 		counter = 0;
 	} else {
-		counter++;
+	  counter++;
 	}
 }
